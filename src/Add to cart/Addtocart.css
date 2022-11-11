@@ -1,0 +1,10 @@
+.container{
+    color: red;
+    display: flex;
+    padding: 20px;
+    margin: 50px;
+}
+
+.head{
+    color: green;
+}
